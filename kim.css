@@ -1,0 +1,95 @@
+.main {
+	width: 100vw;
+	height: 200vh;
+}
+.wab {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	width: 80%;
+	height: 30px;
+	padding-left: 200px;
+	padding-top: 100px;
+}
+
+.la > img {
+	width: 200px;
+}
+.wab > img {
+	width: 150px;
+}
+.mak > img {
+	width: 200px;
+}
+.im > img {
+	width: 544px;
+}
+.naver {
+	padding-top: 10%;
+	padding-left: 20%;
+}
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	line-height: 90px;
+}
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	line-height: 60px;
+}
+.la {
+	padding-top: 2%;
+	padding-right: 50px;
+}
+.vidio {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100vw;
+	height: 100vh;
+	z-index: -999;
+}
+.hk {
+	display: flex;
+	margin-top: 50%;
+}
+h3 {
+	font-size: 40px;
+	line-height: 50px;
+}
+p {
+	padding-top: 10px;
+	font-size: 50px;
+	font-weight: bold;
+}
+h4 {
+	padding-top: 20px;
+	line-height: 30px;
+}
+.buk {
+	background-image: url(background_map_web.png);
+	background-size: cover;
+	position: absolute;
+	left: 0px;
+	top: 1100px;
+	width: 100vw;
+	height: 1030px;
+	z-index: -1;
+}
+.im {
+	padding-top: 50px;
+	padding-left: 300px;
+}
+.nai {
+	position: absolute;
+	left: 2px;
+	top: 1100px;
+	z-index: -1;
+	width: 100vw;
+	height: 1030px;
+	background-color: rgba(255, 255, 255, 0.85);
+}
